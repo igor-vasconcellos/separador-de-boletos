@@ -26,7 +26,7 @@ O sistema é desenvolvido em Node.js com Express.js, arquitetura MVC e front-end
 - Renomeação sequencial dos boletos extraídos  
 - Compactação dos boletos em um arquivo ZIP para download  
 - Interface simples e responsiva para upload e download  
-- Estrutura organizada em arquitetura MVC para facilitar manutenção e escalabilidade  
+- Estrutura organizada em arquitetura MVC para facilitar manutenção e escalabilidade.
 
 ---
 
